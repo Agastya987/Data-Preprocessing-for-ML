@@ -54,11 +54,4 @@ This repository provides structured Jupyter notebooks and scripts designed to ta
 Contributions, improvements, and suggestions are welcome! Please fork the project and submit a pull request.
 
 
-## Contact
 
-**Vaibhav Rakshe**  
-Email: vaibhavrakshe9220@gmail.com
-
-GitHub: [@vaibhav54](https://github.com/vaibhav54)  
-
-⭐ If you find this repository valuable, kindly consider starring it!
